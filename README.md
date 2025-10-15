@@ -77,11 +77,11 @@ Canva-temp/
 
 ## Screenshots
 
-> **Note:** The `images` folder is currently empty. Add screenshots (e.g., `images/homepage.png`, `images/editor.png`) to showcase your app here.
+> **Note:** The `images` folder is currently empty. Add screenshots (e.g., `Images/Home.png`, `Images/Canva.png`) to showcase your app here.
 
 ```
-![Homepage](images/homepage.png)
-![Canvas Editor](images/editor.png)
+![Homepage](Images/Home.png)
+![Canvas Editor](Images/Canva.png)
 ```
 
 ---
